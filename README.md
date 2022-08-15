@@ -6,7 +6,7 @@ Web Developer
 
 I've been working in a professional setting as a Full-Stack Developer for the last few years and have fallen in love with programming and developing applications that can reach out and make the lives of others more enjoyable and efficient.
 
-* 🌍  I'm based in Florida
+* 🌍  I'm based in Jacksonville, Florida
 * 🖥️  See my portfolio at [CurleyT](http://curleyt.com)
 * ✉️  You can contact me at [curleyt727@gmail.com](mailto:curleyt727@gmail.com)
 * 🧠  I'm learning Python - Flask, and React - TS
